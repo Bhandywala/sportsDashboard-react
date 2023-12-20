@@ -6,7 +6,6 @@ function App() {
   const [newplayer, setNewplayer] = useState("")
   const [newplayerAge, setNewplayerAge] = useState('')
   const [data, setData] = useState([])
-  let count
 
   const url = "https://mocki.io/v1/b4544a37-0765-405f-baf6-6675845d5a0e"
 
