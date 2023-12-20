@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  background-color: rgb(255, 255, 255);
+  padding: 10px 40px 10px 40px;
+  border: 1px solid  #cfcfcfc2;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.sports{
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid  #cfcfcfc2;
+}
+.sports h2{
+  text-align: left;
+  margin: -10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 20px;
+  background-color: #cfcfcfc2;
+}
+
+.teams p{
+text-align: left;
+font-size: x-large;
+}
+.teams input:first-child{
+}
+
+li{
+  list-style: none;
+}
